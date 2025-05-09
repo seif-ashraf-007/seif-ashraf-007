@@ -1,7 +1,4 @@
 <h1 align="left">Hi 👋! My name is Seif Ashraf and I'm a Fullstack software engineer from Egypt</h1>
-
-###
-
 <br clear="both">
 
 ###
@@ -13,6 +10,12 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seif-ashraf-007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=seif-ashraf-007&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seif-ashraf-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="120" alt="languages graph"  />
+</div>
 
 ###
 
